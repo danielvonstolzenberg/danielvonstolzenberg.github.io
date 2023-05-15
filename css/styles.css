@@ -25,6 +25,7 @@ a:link {
 }
 
 a:visited {
+	text-decoration: none;
 	color: #d2738a;
 }
 
@@ -64,7 +65,7 @@ h6 {
 }
 
 .copy {
-	font-size: 13px;
+	font-size: 11px;
 
 }
 
@@ -104,9 +105,9 @@ h6 {
 	transition: all .3s ease-in;
 	opacity: 1;
 	transform: scale(2);
-	-ms-transform: scale(3);
+	-ms-transform: scale(2.5);
 	/* IE 9 */
-	-webkit-transform: scale(3);
+	-webkit-transform: scale(2.5);
 	/* Safari and Chrome */
 
 }
@@ -241,6 +242,8 @@ b {
 	animation: blink 2s linear infinite;
 
 }
+
+
 
 @keyframes blink {
 	50% {
