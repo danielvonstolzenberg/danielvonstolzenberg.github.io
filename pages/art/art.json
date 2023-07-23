@@ -1,0 +1,5 @@
+{
+    "layout": "art.liquid",
+    "tags": ["art"],
+    "permalink": "/{{ page.fileSlug }}/"
+}
