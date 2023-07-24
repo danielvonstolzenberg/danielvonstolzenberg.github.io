@@ -26,7 +26,6 @@ jobs:
 
         - name: install dependencies & build
         - run: |
-          npm ci
           npm start
 
 
