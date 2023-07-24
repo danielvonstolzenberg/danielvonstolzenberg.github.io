@@ -4,8 +4,7 @@
   "description": "joshlil.click website",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "NODE_ENV=production eleventy --pathprefix 'danielvonstolzenberg.github.io'",
-    "debug": "DEBUG=Eleventy* eleventy"
+    "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
