@@ -5,7 +5,8 @@ module.exports = function (eleventyConfig) {
     },
     module.exports = {
         dir: {
-            includes: "assets",
+            input: "pages",
+            includes: "temp",
             output: "docs"
         }
     }
