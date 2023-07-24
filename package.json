@@ -1,6 +1,6 @@
 {
   "name": "danielvonstolzenberg.github.io",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "joshlil.click website",
   "scripts": {
     "start": "eleventy --serve",
@@ -10,10 +10,10 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1"
   },
-    "engines": {
-      "node": "20"
-    },
-    "repository": {
-      "url": "https://www.joshlil.click/"
-    }
+  "engines": {
+    "node": "20"
+  },
+  "repository": {
+    "url": "https://github.com/danielvonstolzenberg/danielvonstolzenberg.github.io"
+  }
 }
