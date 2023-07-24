@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
         dir: {
             input: "pages",
             includes: "temp",
-            output: "docs"
+            output: "build"
         }
     }
  }
