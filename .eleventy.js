@@ -3,14 +3,13 @@ const pluginSEO = require("eleventy-plugin-seo");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.setTemplateFormats([
-    // Templates:
     "html",
     "liquid",
     "md",
-    // Static Assets:
     "css",
     "jpeg",
     "jpg",
+    "JPG",
     "png",
   ]);
     eleventyConfig.addPassthroughCopy('assets');
@@ -52,8 +51,8 @@ module.exports = function(eleventyConfig) {
     return {
         dir: {
             input: "src",
-            includes: "temp",
+            includes: "_includes",
             output: "build"
         }
-    }
- }
+    };
+ };
