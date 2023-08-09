@@ -1,5 +1,5 @@
 ---
-title: "Resources for visual artists:"
+title: "Resources for visual artists"
 date: 2023-07-30
 author: "Josh"
 ---
