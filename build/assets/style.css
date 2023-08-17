@@ -12,8 +12,9 @@
 }
 
 body {
-	background-color: #4e2932;
-	color: #c1b492;
+	background-color: #30182e;
+	color: #e0c39c;
+	text-shadow: #000000;
 }
 
 a {
@@ -21,25 +22,28 @@ a {
 }
 
 a:link {
-	color: #d2738a;
+	color: #c2a6bf;
 }
 
 a:visited {
 	text-decoration: none;
-	color: #d2738a;
+	color: #c2a6bf;
+	text-shadow: #000000;
+
 }
 
 a:hover {
 	color: #c1b492;
+	text-shadow: #000000;
 
 }
 
 a:active {
-	color: #d2738a;
+	color: #c2a6bf;
 }
 
 #navbar {
-	background-color: #192922;
+	background-color: #0f2726;
 	width: 800px;
 	height: auto;
 	margin-left: auto;
@@ -47,30 +51,33 @@ a:active {
 	margin-top: 40px;
 	box-shadow: black 0px 5px 10px;
 	text-align: center;
-	padding-top: 40px;
+	padding: 25px;
+	text-shadow: #000000;
+
 
 }
 
 h1 {
-	font-size: 24px;
+	font-size: 26px;
 	font-family: Times, "Times New Roman", serif;
 	font-weight: normal;
 	clear: both;
+	text-shadow: #000000;
 
 }
 
 h6 {
-	font-size: 10px;
+	font-size: 12px;
 
 }
 
 .copy {
-	font-size: 11px;
+	font-size: 13px;
 
 }
 
 .mail {
-	font-size: 11px;
+	font-size: 13px;
 
 }
 
@@ -125,7 +132,7 @@ hr.white {
 
 .article {
 	width: 800px;
-	background-color: #192922;
+	background-color: #0f2726;
 	height: auto;
 	margin-left: auto;
 	margin-right: auto;
@@ -133,9 +140,8 @@ hr.white {
 	box-shadow: black 0px 5px 10px;
 	text-align: center;
 	letter-spacing: 8px;
-	font-size: 13px;
-	padding-top: 20px;
-
+	font-size: 14px;
+	padding: 30px;
 }
 
 .article p {

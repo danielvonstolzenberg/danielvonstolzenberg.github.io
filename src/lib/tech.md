@@ -16,4 +16,8 @@ author: "Josh"
 <h3><a href="https://www.wizcase.com/blog/how-to-create-your-own-vpn-in-the-cloud/">Simple personalized VPN config through physical server or cloud</a></h3><br><hr class="white"><br>
 <h3><a href="https://github.com/dr460nf1r3/firedragon-browser">Fav browser - FireDragon</a></h3><br><hr class="white"><br>
 <h3><a href="https://ublockorigin.com/">Best adblock</a></h3><br><hr class="white"><br>
+<h3><a href="https://librewolf.net/docs/addons/">Recommended browser extensions</a></h3><br><hr class="white"><br>
+<h3><a href="benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine">Whoogle</a></h3><br><hr class="white"><br>
+<h3><a href="https://docs.searxng.org/">SearXNG</a></h3><br><hr class="white"><br>
+
 <h3><a href="https://classroom.synonym.com/what-is-an-affidavit-ballot-12079360.html">Remove your social security number from government system (USA)</a><a href="https://www.ssa.gov/legislation/Removing%20Social%20Security%20Numbers%20from%20Mailed%20Documents%20FY%202022.pdf"> -2</a><a href="https://en.wikipedia.org/wiki/Statelessness"> -3</a</hr>
