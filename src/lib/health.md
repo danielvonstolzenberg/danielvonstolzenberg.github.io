@@ -17,11 +17,14 @@ author: "Josh"
 <h3><a href="https://www.verywellhealth.com/how-to-increase-melanin-5324768">How to Increase Melanin Naturally</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.imperial.ac.uk/news/185071/breaking-mould-melanin-immune-response-killer/">Breaking the mould: Melanin is key in immune response to killer fungus</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.healthline.com/health/dental-and-oral-health/how-to-get-rid-of-cavities#home-treatments">How to Get Rid of Cavities: 6 Home Remedies</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.reddit.com/r/Candida/comments/15va3yx/nystatin_from_germany/">Nystatin from Germany : Candida</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.kroegerhealer.com/oregano-oil-spleen-impotence-yang-deficiency.htm">Oregano Oil, Spleen, Impotence, and Yang Deficiency</a></h3><br><hr class="white"><br>
 <h3><a href=""></a></h3>
 
 <br><h3>Back, spine:</h3><hr><br>
 <h3><a href="https://www.unityfamilychiropractic.com/portals/8/docs/Chart_of_Spinal_Misalignments.pdf">Chart of spinal misalignment effects.</a></h3><br><hr class="white"><br>
 <h3><a href="https://youtu.be/bDdGUFZg1YQ">Releasing the Psoas: It's about the brain, not the muscle.</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.youtube.com/watch?v=Pw15PaXlD9A">Psoas and Hip Flexor Release in 10 Seconds</a></h3><br><hr class="white"><br>
 <h3><a href=""></a></h3>
 
 <br><h3>Neurology:</h3><hr><br>
@@ -31,7 +34,7 @@ author: "Josh"
 
 <br><h3>Mental Health:</h3><hr><br>
 <h3><a href="http://www.keyholejourney.com/part-vi-schizo-cure.html">"Schizo-Cure"</a></h3><br><hr class="white"><br>
-<h3><a href="https://rentry.org/jerrym">Jerry Marzinsky</a></h3><br><hr class="white">
+<h3><a href="https://rentry.org/jerrym">Jerry Marzinsky</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.kykindia.com/molecular-hydrogen-and-its-effects-on-schizophrenia/">Molecular Hydrogen and its effects on Schizophrenia | KYK India</a></h3><br><hr class="white"><br>
 <h3><a href="https://link.springer.com/article/10.1007/s40263-022-00907-3">The Potential of N-Acetyl-L-Cysteine (NAC) in the Treatment of Psychiatric Disorders</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657920/">Parkinson’s Disease: The Emerging Role of Gut Dysbiosis, Antibiotics, Probiotics, and Fecal Microbiota Transplantation - PMC</a></h3><br><hr class="white"><br>
@@ -57,11 +60,14 @@ author: "Josh"
 <h3><a href="The Potential of N-Acetyl-L-Cysteine (NAC) in the Treatment of Psychiatric Disorders">Fungal Melanin and the Mammalian Immune System - PubMed</a></h3><br><hr class="white"><br>
 <h3><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056004">The Synthetic Melanocortin (CKPV)2 Exerts Anti-Fungal and Anti-Inflammatory Effects against Candida albicans Vaginitis via Inducing Macrophage M2 Polarization</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.sciencedaily.com/releases/2023/08/230807164408.htm">Potential novel breakthrough treatment for fungal infections -- ScienceDaily</a></h3><br><hr class="white"><br>
+<h3><a href="https://candidaspecialists.com/candida-cleanse/#candida_cleanse_plan">Candida Cleanse: What we learned in 20 years of yeast cleansing</a></h3><br><hr class="white"><br>
+<h3><a href="https://phys.org/news/2023-07-mind-parasitic-worms-genes-animal.html">'Mind controlling' parasitic worms are missing genes found in every other animal, researchers find</a></h3>><hr class="white"><br>
+<h3><a href="https://www.academia.edu/38412052/The_Power_of_Parasites_and_Worms_pdf">The Power of Parasites and Worms.pdf</a></h3><br><hr class="white"><br>
 <h3><a href=""></a></h3>
 
 <br><h3>Ayurveda:</h3><hr><br>
 <h3><a href="https://cryptokang.link/wp-content/uploads/2021/11/Ayurvedic-Concepts-of-Health.pdf">Ayurvedic-Concepts-of-Health.pdf</a></h3><br><hr class="white">
-<h3><a href=""></a></h3>
+<h3><a href=""></a></h3><br><hr class="white"><br>
 
 <br><h3>Qigong & meditation:</h3><hr><br>
 <h3><a href="https://youtu.be/kGs30q2cSpM">Easy, simple and free Qigong exercize.</a></h3><br><hr class="white"><br>
