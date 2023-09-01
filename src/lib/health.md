@@ -25,6 +25,10 @@ author: "Josh"
 <h3><a href="https://www.unityfamilychiropractic.com/portals/8/docs/Chart_of_Spinal_Misalignments.pdf">Chart of spinal misalignment effects.</a></h3><br><hr class="white"><br>
 <h3><a href="https://youtu.be/bDdGUFZg1YQ">Releasing the Psoas: It's about the brain, not the muscle.</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.youtube.com/watch?v=Pw15PaXlD9A">Psoas and Hip Flexor Release in 10 Seconds</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.youtube.com/shorts/6W_n9loeUsg">How to Unlock Tight Hips in Seconds</a></h3><br><hr class="white"><br>
+<h3><a href=""></a></h3>
+<h3><a href=""></a></h3>
+<h3><a href=""></a></h3>
 <h3><a href=""></a></h3>
 
 <br><h3>Neurology:</h3><hr><br>
@@ -63,7 +67,14 @@ author: "Josh"
 <h3><a href="https://candidaspecialists.com/candida-cleanse/#candida_cleanse_plan">Candida Cleanse: What we learned in 20 years of yeast cleansing</a></h3><br><hr class="white"><br>
 <h3><a href="https://phys.org/news/2023-07-mind-parasitic-worms-genes-animal.html">'Mind controlling' parasitic worms are missing genes found in every other animal, researchers find</a></h3>><hr class="white"><br>
 <h3><a href="https://www.academia.edu/38412052/The_Power_of_Parasites_and_Worms_pdf">The Power of Parasites and Worms.pdf</a></h3><br><hr class="white"><br>
+<h3><a href="https://phys.org/news/2023-07-mind-parasitic-worms-genes-animal.html">'Mind controlling' parasitic worms are missing genes found in every other animal, researchers find</a></h3><br><hr class="white"><br>
 <h3><a href=""></a></h3>
+
+<br><h3>Fasting + DNA:<h3><hr><br>
+<h3><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195912">Time-controlled fasting prevents aging-like mitochondrial changes induced by persistent dietary fat overload in skeletal muscle | PLOS ONE</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.researchgate.net/publication/230884414_Minimizing_the_damage_Repair_pathways_keep_mitochondrial_DNA_intact">(PDF) Minimizing the damage: Repair pathways keep mitochondrial DNA intact</a></h3><br><hr class="white"><br>
+<h3><a href="https://www.youtube.com/watch?v=2Haxwf9DHkM">Does fasting heal mitochondrial damage?</a></h3><br><hr class="white"><br>
+<h3><a href="https://medicalxpress.com/news/2022-06-intermittent-fasting-nerve.html">Intermittent fasting may help heal nerve damage</a></h3><br><hr class="white"><br>
 
 <br><h3>Ayurveda:</h3><hr><br>
 <h3><a href="https://cryptokang.link/wp-content/uploads/2021/11/Ayurvedic-Concepts-of-Health.pdf">Ayurvedic-Concepts-of-Health.pdf</a></h3><br><hr class="white">
