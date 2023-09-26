@@ -72,10 +72,13 @@ h6 {
 }
 
 .copy {
+	font-size: 16px;
+
+}
+.update {
 	font-size: 13px;
 
 }
-
 .mail {
 	font-size: 13px;
 
@@ -98,6 +101,12 @@ h6 {
 .blinkFrame {
 	display: inline-block;
 	float: left;
+	width: 400px;
+	font-weight: bolder;
+
+}
+.blinkFrame2 {
+	display: inline-block;
 	width: 400px;
 	font-weight: bolder;
 
