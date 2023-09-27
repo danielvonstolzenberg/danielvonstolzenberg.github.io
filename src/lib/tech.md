@@ -3,7 +3,7 @@ title: "Basic internet privacy and opsec"
 date: 2023-07-24
 author: "Josh"
 ---
-
+<p>The best opsec is being completely open and truthful about your actions and thoughts.<br>But using a tails or kali liveboot usb in a public library is pretty close.</p>
 <h3></h3><hr class="white"><br>
 <h3><a href="https://privacytests.org/">PrivacyTests.org - web broser comparison</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.oracle.com/legal/privacy/rights.html">Oracle - see your rights <br>(you ain't got much if you don't ask)</a></h3><br><hr class="white"><br>
@@ -19,5 +19,4 @@ author: "Josh"
 <h3><a href="https://librewolf.net/docs/addons/">Recommended browser extensions</a></h3><br><hr class="white"><br>
 <h3><a href="benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine">Whoogle</a></h3><br><hr class="white"><br>
 <h3><a href="https://docs.searxng.org/">SearXNG</a></h3><br><hr class="white"><br>
-
 <h3><a href="https://classroom.synonym.com/what-is-an-affidavit-ballot-12079360.html">Remove your social security number from government system (USA)</a><a href="https://www.ssa.gov/legislation/Removing%20Social%20Security%20Numbers%20from%20Mailed%20Documents%20FY%202022.pdf"> -2</a><a href="https://en.wikipedia.org/wiki/Statelessness"> -3</a</hr>
