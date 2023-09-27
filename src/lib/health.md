@@ -3,13 +3,7 @@ title: "Health info & books"
 date: 2023-07-25
 author: "Josh"
 ---
-<h3>Herbs & supplements:</h3><hr>
-<details>
-    <summary>View</summary>
-<h3><a href="https://en.wikipedia.org/wiki/Dimethyl_sulfoxide">DMSO</a></h3><br><hr class="white"><br>
-<h3><a href="https://www.sott.net/article/228453-DMSO-The-Real-Miracle-Solution">DMSO - The Real Miracle Solution</a></h3><br><hr class="white"><br>
-<h3><a href="https://floliving.com/blog/what-is-n-acetyl-cysteine-nac">What is N-Acetyl Cysteine? NAC Benefits for Fertility, PCOS, & More</a></h3><br><hr class="white"><br>
-<h3><a href="https://scottjeffrey.com/pineal-gland-detox-supplements/">Pineal gland detoxifying and decalcifying herbs + scientific studies</a></h3><br><hr class="white"><br>
+
 <h3>Herbs & supplements:</h3><hr>
 <details>
     <summary>View</summary>
@@ -45,17 +39,9 @@ author: "Josh"
 <br><h3>Neurology:</h3><hr>
 <details>
     <summary>View</summary>
-</details>
-<br><h3>Neurology:</h3><hr>
-<details>
-    <summary>View</summary>
 <h3><a href="https://cryptokang.link/wp-content/uploads/2021/11/Brain-Facts-A-Primer-on-the-Brain-and-Nervous-System.pdf">Brain-Facts-A-Primer-on-the-Brain-and-Nervous-System.pdf</a></h3><br><hr class="white"><br>
 <h3><a href="https://cryptokang.link/wp-content/uploads/2021/11/Endocrine-Disrupting-Chemicals.pdf">Endocrine-Disrupting-Chemicals.pdf</a></h3><br><hr class="white">
 <h3><a href=""></a></h3>
-</details>
-<br><h3>Mental Health:</h3><hr>
-<details>
-    <summary>View</summary>
 </details>
 <br><h3>Mental Health:</h3><hr>
 <details>
@@ -65,10 +51,6 @@ author: "Josh"
 <h3><a href="https://www.kykindia.com/molecular-hydrogen-and-its-effects-on-schizophrenia/">Molecular Hydrogen and its effects on Schizophrenia | KYK India</a></h3><br><hr class="white"><br>
 <h3><a href="https://link.springer.com/article/10.1007/s40263-022-00907-3">The Potential of N-Acetyl-L-Cysteine (NAC) in the Treatment of Psychiatric Disorders</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6657920/">Parkinson’s Disease: The Emerging Role of Gut Dysbiosis, Antibiotics, Probiotics, and Fecal Microbiota Transplantation - PMC</a></h3><br><hr class="white"><br>
-</details>
-<br><h3>Parasites:</h3><hr>
-<details>
-    <summary>View</summary>
 </details>
 <br><h3>Parasites:</h3><hr>
 <details>
@@ -98,10 +80,6 @@ author: "Josh"
 <h3><a href="https://www.academia.edu/38412052/The_Power_of_Parasites_and_Worms_pdf">The Power of Parasites and Worms.pdf</a></h3><br><hr class="white"><br>
 <h3><a href="https://phys.org/news/2023-07-mind-parasitic-worms-genes-animal.html">'Mind controlling' parasitic worms are missing genes found in every other animal, researchers find</a></h3><br><hr class="white"><br>
 <h3><a href=""></a></h3>
-</details>
-<br><h3>Fasting + DNA:</h3><hr>
-<details>
-    <summary>View</summary>
 </details>
 <br><h3>Fasting + DNA:</h3><hr>
 <details>
@@ -139,10 +117,6 @@ author: "Josh"
     <summary>View</summary>
 <h3><a href="https://cryptokang.link/wp-content/uploads/2021/11/Ayurvedic-Concepts-of-Health.pdf">Ayurvedic-Concepts-of-Health.pdf</a></h3><br><hr class="white">
 <h3><a href=""></a></h3><br><hr class="white"><br>
-</details>
-<br><h3>Qigong & meditation:</h3><hr>
-<details>
-    <summary>View</summary>
 </details>
 <br><h3>Qigong & meditation:</h3><hr>
 <details>
