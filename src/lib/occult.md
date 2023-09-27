@@ -15,6 +15,8 @@ author: "Josh"
 <h3><a href="https://vedavyasamandala.com/en/initiation-and-method-of-hesychasm/">Initiation and Method of Hesychasm</a></h3><br><hr class="white"><br>
 <h3><a href="https://en.wikipedia.org/wiki/Hesychasm">Hesychasm</a></h3><br><hr class="white"><br>
 <h3><a href="https://en.wikipedia.org/wiki/Palamism">Palamism</a></h3><br><hr class="white"><br>
+<h3><a href="https://en.wikipedia.org/wiki/Hesychasm">Hesychasm</a></h3><br><hr class="white"><br>
+<h3><a href="https://en.wikipedia.org/wiki/Palamism">Palamism</a></h3><br><hr class="white"><br>
 <h3><a href="https://en.wikipedia.org/wiki/R%C5%AB%E1%B8%A5">Rūḥ</a></h3><br><hr class="white"><br>
 <h3><a href="https://justaword.org/ahayah-or-yahuah/">AHAYAH or YAHUAH? Which is the Correct Name of The Most High?</a></h3><br><hr class="white"><br>
 <h3><a href="https://files.catbox.moe/vvo662.pdf">[PDF] The Great Red Dragon - Professor Hilton Hotema</a></h3><br><hr class="white"><br>
