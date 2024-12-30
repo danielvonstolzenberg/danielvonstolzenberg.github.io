@@ -16,6 +16,13 @@ author: "Josh"
 
 
 
+<h3>Neoplatonism, late-platonism and protognostic teachings</h3><hr>
+<details>
+    <summary>View</summary>
+<br>
+<h3><a href="https://muslimphilosophy.com/ip/rep/H003">Neoplatonism in Islamic philosophy</a></h3><br><hr class="white"><br>
+</details><br>
+
 
 
 <h3>Rene Guenon:</h3><hr>
@@ -50,6 +57,9 @@ SYMBOLS: The Universal Language of Sacred Science</a></h3><br><hr class="white">
 <details>
     <summary>View</summary>
 <br>
+<h3><a href="https://www.ancient-code.com/deciphering-sirius-and-orion/">Deciphering Sirius and Orion</a></h3><br><hr class="white"><br>
+<h3><a href="http://www.greatdreams.com/dogstar.htm"> SIRIUS THE DOG STAR
+THE LOST AND MISSING STAR </a></h3><br><hr class="white"><br>
 <h3><a href="https://referenceworks.brillonline.com/entries/encyclopaedia-of-the-quran/sirius-EQSIM_00391">Sirius - Qurʾān</a></h3><br><hr class="white"><br>
 <h3><a href="https://files.catbox.moe/z0cdyv.pdf">The Cult of The Black Cube</a></h3><br><hr class="white"><br>
 
@@ -84,15 +94,12 @@ SYMBOLS: The Universal Language of Sacred Science</a></h3><br><hr class="white">
 
 
 
-
-
 <h3>History</h3><hr>
 <details>
     <summary>View</summary>
 <h3><a href="https://files.catbox.moe/z5uywb.pdf">[PDF] Chan Thomas - The Adam And Eve Story</a></h3><br><hr class="white"><br>
 <h3><a href="https://files.catbox.moe/b25av1.pdf">[PDF] Eustace Mullins - The Curse of Canaan</a></h3><br><hr class="white"><br>
 <h3><a href="https://files.catbox.moe/r7go0d.pdf">[PDF] The Natural History of Pliny</a></h3><br><hr class="white"><br>
-<h3><a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300070001-8.pdf">[PDF] CIA - The Adam And Eve Story</a></h3><br><hr class="white"><br>
 <h3><a href="https://www.researchgate.net/publication/253174141_True_polar_wander_An_analysis_of_Cenozoic_and_Mesozoic_paleomagnetic_poles">[PDF] True polar wander: An analysis of Cenozoic and Mesozoic paleomagnetic poles</a></h3><br><hr class="white"><br>
 <h3><a href="https://files.catbox.moe/xa4ydh.pdf">[PDF] World in Peril The Origin</a></h3><br><hr class="white"><br>
 
@@ -111,6 +118,7 @@ SYMBOLS: The Universal Language of Sacred Science</a></h3><br><hr class="white">
 <h3><a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000200650002-3.pdf">[PDF] CIA - Study of Paranormal Phenomena By Means of Experiments At Microscopic Level (Approved for release 2001/03/07)</a></h3><br><hr class="white"><br>
 
 </details><br>
+
 
 
 
