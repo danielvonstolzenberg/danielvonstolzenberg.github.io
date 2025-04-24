@@ -1,273 +1,235 @@
 @charset "UTF-8";
 
 * {
-	margin: 0px;
-	padding: 0px;
-	letter-spacing: 8px;
-	image-rendering: pixelated;
-	font-smooth: never;
-	-webkit-font-smoothing: none;
-	/*-moz-osx-font-smoothing: grayscale; */
-
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 8px;
+  image-rendering: pixelated;
+  font-smooth: never;
+  -webkit-font-smoothing: none;
+  /*-moz-osx-font-smoothing: grayscale; */
 }
 
 body {
-	background-color: #30182e;
-	color: #e0c39c;
-	text-shadow: #000000;
+  background-color: #10191f;
+  color: #e0c39c;
+  text-shadow: #000000;
 }
 
-a {
-	text-decoration: none;
-}
-
-a:link {
-	color: #c2a6bf;
-}
-
-a:visited {
-	text-decoration: none;
-	color: #c2a6bf;
-	text-shadow: #000000;
-
-}
-
-a:hover {
-	color: #c1b492;
-	text-shadow: #000000;
-
-}
-
-a:active {
-	color: #c2a6bf;
-}
-
-#navbar {
-	background-color: #0f2726;
-	width: 800px;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 40px;
-	box-shadow: black 0px 5px 10px;
-	text-align: center;
-	padding: 25px;
-	text-shadow: #000000;
-
-
-}
-
-h1 {
-	font-size: 26px;
-	font-family: Times, "Times New Roman", serif;
-	font-weight: normal;
-	clear: both;
-	text-shadow: #000000;
-
-}
-
-h6 {
-	font-size: 12px;
-
-}
-
-.copy {
-	font-size: 16px;
-
-}
-.update {
-	font-size: 13px;
-
-}
-.mail {
-	font-size: 13px;
-
-}
-
-#navline {
-	font-size: 15px;
-	letter-spacing: 8px;
-	margin-bottom: 20px;
-
-}
-
-.navline {
-	font-size: 8px;
-	letter-spacing: 8px;
-	margin-bottom: 20px;
-
-}
-
-.blinkFrame {
-	display: inline-block;
-	float: left;
-	width: 400px;
-	font-weight: bolder;
-
-}
-.blinkFrame2 {
-	display: inline-block;
-	width: 400px;
-	font-weight: bolder;
-
-}
-
-.img:hover {
-	color: #424242;
-	-webkit-transition: all .3s ease-in;
-	-moz-transition: all .3s ease-in;
-	-ms-transition: all .3s ease-in;
-	-o-transition: all .3s ease-in;
-	transition: all .3s ease-in;
-	opacity: 1;
-	transform: scale(2);
-	-ms-transform: scale(2.5);
-	/* IE 9 */
-	-webkit-transform: scale(2.5);
-	/* Safari and Chrome */
-
+section {
+  background-size: cover;
+  scroll-snap-align: center;
 }
 
 hr {
-	border-color: #4e2932;
-	border-bottom-width: 2px;
-
+  border-color: #1f3f3d;
+  border-bottom-width: 2px;
 }
 hr.white {
-	border-color: #9b858b;
-	border-bottom-width: 1px;
-
+  border-color: #85919b;
+  border-bottom-width: 1px;
 }
 
-.article {
-	width: 800px;
-	background-color: #0f2726;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 40px;
-	box-shadow: black 0px 5px 10px;
-	text-align: center;
-	letter-spacing: 8px;
-	font-size: 14px;
-	padding: 30px;
+h1 {
+  font-size: 26px;
+  font-family: Times, "Times New Roman", serif;
+  font-weight: normal;
+  clear: both;
+  text-shadow: #000000;
 }
 
-.article p {
-	margin: 20px;
-	font-size: 14px;
-
-}
-
-.date {
-	font-size: 10px;
-	line-height: 0px;
-	margin: 0px;
-
-}
-
-.author {
-	font-size: 13px;
-	line-height: 40px;
-	margin: 0px;
-
+h6 {
+  font-size: 12px;
 }
 
 h5 {
-	font-weight: normal;
-
+  font-weight: normal;
 }
 
 b {
-	color: #d2738a;
-	font-weight: normal;
+  color: #d2738a;
+  font-weight: normal;
+}
 
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #c2a6bf;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #c2a6bf;
+  text-shadow: #000000;
+}
+
+a:hover {
+  color: #c1b492;
+  text-shadow: #000000;
+}
+
+a:active {
+  color: #c2a6bf;
+}
+
+.copy {
+  font-size: 16px;
+}
+
+.update {
+  font-size: 13px;
+}
+
+.mail {
+  font-size: 13px;
+}
+
+#navbar {
+  background-color: #0f2726;
+  width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  box-shadow: black 0px 5px 10px;
+  text-align: center;
+  padding: 25px;
+  text-shadow: #000000;
+}
+
+#navline {
+  font-size: 15px;
+  letter-spacing: 8px;
+  margin-bottom: 20px;
+}
+
+.navline {
+  font-size: 8px;
+  letter-spacing: 8px;
+  margin-bottom: 20px;
+}
+
+.article {
+  width: 800px;
+  background-color: #0f2726;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  box-shadow: black 0px 5px 10px;
+  text-align: center;
+  letter-spacing: 8px;
+  font-size: 14px;
+  padding: 30px;
+}
+
+.article p {
+  margin: 20px;
+  font-size: 14px;
+}
+
+.date {
+  font-size: 10px;
+  line-height: 0px;
+  margin: 0px;
+}
+
+.author {
+  font-size: 13px;
+  line-height: 40px;
+  margin: 0px;
 }
 
 #footer span {
-	background-color: black;
-	padding: 3px;
-
+  background-color: black;
+  padding: 3px;
 }
 
 #footer a {
-	text-decoration: underline;
-
+  text-decoration: underline;
 }
 
 #note {
-	letter-spacing: 0px;
-
+  letter-spacing: 0px;
 }
 
 .article .comment {
-	font-size: 9px;
-
+  font-size: 9px;
 }
 
 .jap {
-	font-smooth: auto !important;
-	-webkit-font-smoothing: auto !important;
-
+  font-smooth: auto !important;
+  -webkit-font-smoothing: auto !important;
 }
 
 .iconA {
-	background-image: url(../favicon.ico);
-	background-repeat: no-repeat;
-	height: 16px;
-	width: 16px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 10px;
+  background-image: url(../favicon.ico);
+  background-repeat: no-repeat;
+  height: 16px;
+  width: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
 
+/* add the blink animation */
+
+.blinkFrame {
+  display: inline-block;
+  float: left;
+  width: 400px;
+  font-weight: bolder;
+}
+.blinkFrame2 {
+  display: inline-block;
+  width: 400px;
+  font-weight: bolder;
 }
 
 .del1s {
-	animation: blink 2s linear infinite;
-	animation-delay: 0s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 0s;
+  letter-spacing: 0px;
 }
 
 .del1s5ms {
-	animation: blink 2s linear infinite;
-	animation-delay: 0.4s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 0.4s;
+  letter-spacing: 0px;
 }
 
 .del2s {
-	animation: blink 2s linear infinite;
-	animation-delay: 0.8s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 0.8s;
+  letter-spacing: 0px;
 }
 
 .del4s {
-	animation: blink 2s linear infinite;
-	animation-delay: 1.2s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 1.2s;
+  letter-spacing: 0px;
 }
 
 .del5s {
-	animation: blink 2s linear infinite;
-	animation-delay: 1.6s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 1.6s;
+  letter-spacing: 0px;
 }
 
 .del6s {
-	animation: blink 2s linear infinite;
-	animation-delay: 2s;
-	letter-spacing: 0px
+  animation: blink 2s linear infinite;
+  animation-delay: 2s;
+  letter-spacing: 0px;
 }
 
 .blink {
-	animation: blink 2s linear infinite;
-
+  animation: blink 2s linear infinite;
 }
 
-
-
 @keyframes blink {
-	50% {
-		color: #192922;
-	}
-
+  50% {
+    color: #192922;
+  }
 }
