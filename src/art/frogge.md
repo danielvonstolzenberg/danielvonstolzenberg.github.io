@@ -1,7 +1,7 @@
 ---
-name: Frogge
+name: Frog
 path: "/assets/img/frogge.png"
 date: 2023-05-02
-previous: /pages/art/0/
-next: /face/
+previous: /stilllifetempera_01/
+next: /stilllifetempera_01/
 ---
