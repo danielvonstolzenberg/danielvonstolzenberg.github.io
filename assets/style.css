@@ -4,9 +4,11 @@
   margin: 0px;
   padding: 0px;
   letter-spacing: 8px;
+  line-height: 20px;
   image-rendering: pixelated;
   font-smooth: never;
   -webkit-font-smoothing: none;
+  font-size: 111%;
   /*-moz-osx-font-smoothing: grayscale; */
 }
 
@@ -128,6 +130,19 @@ a:active {
 .article p {
   margin: 20px;
   font-size: 14px;
+}
+
+#projectarticle {
+  line-height: 25px;
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#projectarticle p {
+  letter-spacing: 15%;
+  font-size: large;
+  line-height: 35px;
+  text-align: left;
 }
 
 .date {
