@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.setTemplateFormats([
@@ -12,6 +13,8 @@ module.exports = function(eleventyConfig) {
     "JPG",
     "png",
   ]);
+    eleventyConfig.addPlugin(syntaxHighlight);
+
     eleventyConfig.addPassthroughCopy('assets');
 
     const seo = require("./src/seo.json");
