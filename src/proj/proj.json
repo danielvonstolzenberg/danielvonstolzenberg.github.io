@@ -1,4 +1,5 @@
 {
-    "layout": "proj.liquid",
-    "tags": ["proj"]
+    "layout": "proj.njk",
+    "tags": ["proj"],
+    "permalink": "/{{ page.fileSlug }}/"
 }

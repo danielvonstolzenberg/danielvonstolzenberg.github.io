@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=0.5, shrink-to-fit=no" name="viewport"/>
+    <link rel="icon" href="{{ './assets/favicon.ico' | url }}"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap"
+      rel="stylesheet">
+    <script src="/assets/js/scrollspy.js"></script>
+    <style>
+      {% set css %}
+      {% include "assets/tailwind.css" %}
+      {% endset %}
+      s{{css | postcss | safe}}.max-w-8xl {
+        max-width: 80rem;
+      }
+    </style>
+    <title>{{ title }}</title>
+  </head>
+  <body class="container mx-auto bg-blorp font-garamond antialiased">
+    <section id="navbar">
+      <nav class="sticky w-full top-0 right-0 flex flex-wrap py-3 bg-blorp shadow-md shadow-black">
+        <div class=" flex w-fit flex-auto justify-start ml-3 relative">
+          <p class="text-opacity-20 font-extralight animate-pulse">
+            &lceil;</p>
+          <a href="/" class="text-opacity-70 font-extralight block">
+            Josh's WebPage
+          </a>
+          <p class="text-opacity-20 font-extralight block animate-pulse">
+            &rfloor;</p>
+        </div>
+        <div class="flex-wrap mr-3 w-fit justify-center relative">
+          <p class="text-opacity-70 font-extralight block">
+            <a href="{{ '/index#about' | url }}" class="text-opacity-70">About</a>
+            |
+            <a href="{{ '/index#library' | url }}" class="text-opacity-70">Library</a>
+            |
+            <a href="{{ '/index#gallery' | url }}" class="text-opacity-70">Gallery</a>
+            |
+            <a href="{{ '/index#projects' | url }}" class="text-opacity-70">Projects</a>
+          </p>
+        </div>
+      </nav>
+      <main>
+        <section id="blog">
+          <div class="text-center mx-auto lg:max-w-screen-md md:max-w-screen-sm max-w-screen-sm rounded-s grid grid-cols-1 px-11 py-7 bg-tlorp place-items-center shadow-lg drop-shadow-xl shadow-black">
+            <div class="">{{ content | safe }}</div>
+          </div>
+        </section>
+      </main>
+      <br/> <br/> <br/> <br/> <br/>
+      <footer class="flex border-brap py-3 text-center">
+        <div class="flex w-full flex-wrap place-items-center gap-x-20 gap-y-9">
+          <p class=" ">© 2025 Joshua Lilleberg</p>
+        </div>
+        <div class="flex-wrap place-items-center gap-x-20 justify-end">
+          <ul>
+            <li><a href="mailto:daniel.von.stolzenberg@proton.me">Contact</a></li>
+          </ul>
+        </div>
+      </footer>
+    </body>
+  </body>
+</html>
