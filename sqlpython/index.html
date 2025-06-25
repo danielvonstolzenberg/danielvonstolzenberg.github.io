@@ -18,7 +18,7 @@
         max-width: 80rem;
       }
     </style>
-    <title>Apps for visual artists</title>
+    <title>SQL &amp; Python - simple book manufacturer database filled with scraped data</title>
   </head>
   <body class="container mx-auto bg-blorp font-garamond antialiased">
     <section id="navbar">
@@ -48,14 +48,22 @@
         <section id="blog">
           <div class="text-center mx-auto lg:max-w-screen-md md:max-w-screen-sm max-w-screen-sm rounded-s grid grid-cols-1 px-11 py-7 bg-tlorp place-items-center shadow-lg drop-shadow-xl shadow-black">
             <div class=""><article>
-  <div class="text-center"><h1>Apps for visual artists</h1></div><br>
+  
+  <div class="text-center"><h1>SQL &amp; Python - simple book manufacturer database filled with scraped data</h1></div><br>
   <hr><br>
-  <div><h3>Open source programs:</h3>
-<br>
-<p><a href="https://www.blender.org/">Blender - 3D creation suite</a></p>
-<hr>
-<p><a href="https://krita.org/en/">Krita - painting program</a></p>
-</div>
+  <div class="text-left"><p><br><br></p>
+<section id="projectarticle">
+<p>As a starting project to learn SQL, I created a database based off a diagram given to me by Alan. I started by creating the Delivery.., Logistics.. and Document.. tables, connected with foreign keys, then decided to create more connecting tables to fill the database with, starting by webscraping a book store website designed for scraping found <a href="https://books.toscrape.com/">here</a>.</p>
+<img src="/assets/img/sqlpython/diagram.png" />
+<p>Using this python script I scraped 10 000 books - their names, prices, ratings, availability and a link to their page - all to CSV files which can be imported in to SQL using BULK INSERT.</p>
+<img src="/assets/img/sqlpython/scraper.png" />
+<p>I then used python to fill temporary tables with random data - driver names, adressess, business names, warehouses, distribution centers... Then using this data I randomly created associated foreign keys.</p>
+<p>For example, this script randomly selects dates, route ids and driver ids from the database to fill a temporary logistics route schedule table.</p>
+<img src="/assets/img/sqlpython/faker.png" />
+<p>I also used more complicated scripts to fill in columns that should be mathematically sound, such as making sure the quantity in item boxes match the overall ordered quantity of the delivery.</p>
+<img src="/assets/img/sqlpython/generateboxes.png" />
+</section>
+<br><br></div>
   <p>
     <hr><br>
     

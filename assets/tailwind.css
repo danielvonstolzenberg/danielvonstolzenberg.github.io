@@ -1,0 +1,51 @@
+/* @charset "UTF-8"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* p { @apply antialiased text-base text-inherit text-stone-300; }
+h1 { @apply antialiased text-base font-extralight text-4xl text-stone-200; }
+h2 { @apply antialiased text-base font-extralight text-3xl text-stone-200; }
+h3 { @apply antialiased text-base font-extralight text-2xl text-stone-200; }
+blockquote { @apply antialiased text-base p-3 my-2 border-s-4 border-neutral-500 bg-neutral-700 text-stone-100; }
+pre { @apply antialiased p-3 my-2 border-s-4 border-neutral-500 bg-neutral-900 text-stone-300; }
+ul { @apply antialiased text-base text-inherit list-disc text-stone-200; }
+ol { @apply antialiased text-base text-inherit list-decimal text-stone-300; }
+a { @apply antialiased text-base text-inherit text-amber-200 hover:text-amber-100} */
+h1 {
+  @apply lg:text-2xl md:text-3xl text-5xl text-ylorp font-extrabold text-opacity-70 text-center underline italic;
+}
+
+h2 {
+  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold;
+}
+
+h3 {
+  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold italic;
+}
+
+a {
+  @apply lg:text-lg md:text-xl text-3xl text-plorp;
+}
+
+a:hover {
+  @apply lg:text-lg md:text-xl text-3xl text-goldgray;
+}
+
+p {
+  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extralight antialiased;
+}
+
+strong {
+  @apply font-extrabold
+}
+span {
+  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold italic;
+}
+
+hr {
+  @apply border-brap;
+}
+
+img {
+  @apply object-contain scale-50 max-h-full drop-shadow-md rounded-md m-auto;
+}
