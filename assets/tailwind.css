@@ -12,34 +12,34 @@ ul { @apply antialiased text-base text-inherit list-disc text-stone-200; }
 ol { @apply antialiased text-base text-inherit list-decimal text-stone-300; }
 a { @apply antialiased text-base text-inherit text-amber-200 hover:text-amber-100} */
 h1 {
-  @apply lg:text-2xl md:text-3xl text-5xl text-ylorp font-extrabold text-opacity-70 text-center underline italic;
+  @apply lg:text-2xl md:text-4xl text-6xl text-ylorp text-opacity-70 font-extrabold italic text-center;
 }
 
 h2 {
-  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold;
+  @apply lg:text-xl md:text-2xl text-4xl text-ylorp font-extrabold text-justify;
 }
 
 h3 {
-  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold italic;
+  @apply lg:text-xl md:text-2xl text-4xl text-ylorp font-extrabold italic text-justify;
 }
 
 a {
-  @apply lg:text-lg md:text-xl text-3xl text-plorp;
+  @apply lg:text-xl md:text-2xl text-4xl text-plorp;
 }
 
 a:hover {
-  @apply lg:text-lg md:text-xl text-3xl text-goldgray;
+  @apply lg:text-xl md:text-2xl text-4xl underline text-goldgray;
 }
 
 p {
-  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extralight antialiased;
+  @apply lg:text-xl md:text-2xl text-4xl text-ylorp font-extralight antialiased text-justify;
 }
 
 strong {
   @apply font-extrabold
 }
 span {
-  @apply lg:text-lg md:text-xl text-3xl text-ylorp font-extrabold italic;
+  @apply lg:text-xl md:text-2xl text-4xl text-ylorp font-extrabold italic;
 }
 
 hr {
