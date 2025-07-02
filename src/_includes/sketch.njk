@@ -1,0 +1,54 @@
+---
+layout: layout.njk
+---
+
+<article>
+  <div class="container">
+    <hr>
+    <br>
+    <div>
+      <h1>{{ name }}</h1>
+    </div>
+    <br>
+    {% if previous %}
+      <a href="{{ previous }}">
+        <h1>←</h1>
+      </a>
+    {% endif %}
+    {% if next %}
+      <a href="{{ next }}">
+        <div class="flex-container-column centered">
+          <img class="rounded-none" width="auto" height="auto" src="{{ path }}" alt="{{ name }}"/>
+        </div>
+      </a>
+    {% else %}
+      <div class="flex-container-column centered">
+        <img class="img-fluid" src="{{ path }}" alt="{{ name }}"/>
+      </div>
+    {% endif %}
+      <p>{{ content | safe }}</p>
+      {# <i class="date">{{ date | date: "%b %d, %Y" }}</i> #}
+    {% if next %}
+      <a href="{{ next }}">
+        <h1>→</h1>
+      </a>
+      <br>
+      <hr>
+      <br>
+    {% endif %}
+  <section>
+    <div class="columns-2 flex-auto">
+      {% for pic in collections.sketch %}
+        <span class="">{{ pic.data.name }}</span>
+        <br>
+        <a href="{{ pic.url }}">
+            <div class="h-80">
+              <img class="rounded-md shadow-lg shadow-blorp" src="{{ pic.data.path }}" alt="{{ pic.data.name }}" />
+            </div>
+          {# <span class="date">{{ pic.data.date | date:("MMM dd, YYYY") }}</span> #}
+        </a>
+        <br>
+      {% endfor %}
+    </div>
+  </section>
+</article>

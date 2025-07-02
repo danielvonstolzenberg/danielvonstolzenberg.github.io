@@ -1,0 +1,5 @@
+{
+    "layout": "sketch.njk",
+    "tags": ["sketch"],
+    "permalink": "/{{ page.fileSlug }}/"
+}

@@ -1,5 +1,0 @@
-{
-    "layout": "art.njk",
-    "tags": ["art"],
-    "permalink": "/{{ page.fileSlug }}/"
-}

@@ -4,18 +4,22 @@ title: Home
 tags: nav
 ---
 
-<section>
+<section id="about">
+  <br>
   <div>
     <h1>About</h1>
     <br>
     <p class="text-center">My name is Josh. I like to make things and learn stuff.
-    <p><br>
-      <hr><br>
+    <p>
   </div>
 </section>
-<section>
+<section id="library">
+  <br>
+  <hr>
+  <br>
   <div>
-    <h1>Library</h1><br>
+    <h1>Library</h1>
+    <br>
     <ul>
       {% for post in collections.lib %}
       <li>
@@ -25,36 +29,64 @@ tags: nav
         <br>
       </li>
       {% endfor %}
-    </ul><br>
-    <hr><br>
+    </ul>
   </div>
 </section>
-<section >
+<section id="gallery">
+  <br>
+  <hr>
+  <br>
   <div>
     <h1>Gallery</h1>
     <br>
-    {% for pic in collections.art %}
-    <span>{{ pic.data.name }}</span><br /><br />
-    <a href="{{ pic.url }}">
-      <div class="gallery-pic-container">
-        <div class="flex-container-column centered">
-          <img class="img" width="auto" height="300" src="{{ pic.data.path }}" alt="{{ pic.data.name }}" />
-        </div>
-      </div>
-      {# <span class="date">{{ pic.data.date | date:("MMM dd, YYYY") }}</span> #}
-    </a><br />
-    <hr /> <br />
-    {% endfor %}
+    <div class="columns-2 flex-auto">
+      {% for pic in collections.gallery %}
+        <span class="">{{ pic.data.name }}</span>
+        <br>
+        <a href="{{ pic.url }}">
+            <div class="h-80">
+              <img class="rounded-md shadow-lg shadow-blorp" src="{{ pic.data.path }}" alt="{{ pic.data.name }}" />
+            </div>
+          {# <span class="date">{{ pic.data.date | date:("MMM dd, YYYY") }}</span> #}
+        </a>
+        <br>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<section id="sketch">
+  <br>
+  <hr>
+  <br>
+  <div>
+    <h1>Sketchbook</h1>
+    <br>
+    <div class="columns-2 flex-auto">
+      {% for pic in collections.sketch %}
+        <span class="">{{ pic.data.name }}</span>
+        <br>
+        <a href="{{ pic.url }}">
+            <div class="h-80">
+              <img class="rounded-md shadow-lg shadow-blorp" src="{{ pic.data.path }}" alt="{{ pic.data.name }}" />
+            </div>
+          {# <span class="date">{{ pic.data.date | date:("MMM dd, YYYY") }}</span> #}
+        </a>
+        <br>
+      {% endfor %}
+    </div>
   </div>
 </section>
 <section id="projects">
-  <div class="article">
+  <br>
+  <hr>
+  <br>
+  <div>
     <h1>Projects</h1>
     <br /><br />
     {% for post in collections.proj %}
     <a href="{{ post.url }}">{{ post.data.title }}</a><br /><br />
     <span class="date">{# {{ post.data.author }} - {{ post.data.date | date: ("MMM dd, YYYY") }} #}
-    </span><br>
+    </span>
     {% endfor %}
   </div>
 </section>
