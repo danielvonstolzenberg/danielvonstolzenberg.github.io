@@ -22,7 +22,7 @@ module.exports = {
       colors: {
         'evergreen':'#0B2323',
         'goldgray': "#AFAA6F",
-        'ylorp': "#dfc29b",
+        'ylorp': "#dcd3c1",
         'blorp': "#10191f",
         'tlorp': "#0f2726",
         'plorp': "#c2a6bf",

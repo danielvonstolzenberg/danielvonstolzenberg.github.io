@@ -6,7 +6,7 @@ author: "Josh"
 
 <br> The site you're currently viewing is made using [Elventy](https://www.11ty.dev/), a simple, open source static site generator available through node.js.
 
-<br> It's published using Github Pages. You can view the repository with the site's source code [here](https://github.com/danielvonstolzenberg/danielvonstolzenberg.github.io).
+<br> It's published using Github Pages. You can view the repository with the site's source code [here](https://github.com/josh-vs/josh-vs.github.io).
 
 <br> After installing Eleventy into my site folder, I set up the .eleventy.js file:
 
