@@ -1,8 +1,8 @@
-build
-node_modules
-web_modules
-.cache
-.config
+build/
+node_modules/
+web_modules/
+.cache/
+.config/
 josh-vs.github.io.code-workspace
 .node-gyp.bak
-temp
+temp/
